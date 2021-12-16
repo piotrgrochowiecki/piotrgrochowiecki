@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piotrgrochowiecki
-- 👀 I’m interested starting a career as a software engineer in Warsaw, Poland area. Also ready to consider relocation.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested starting a career as a Java developer in Warsaw or remotely
+- 🌱 I currently learn Java.
 - 💞️ I’m looking to collaborate on some projects suitable for begineers 
 - 📫 How to reach me: piotrgrochowiecki@gmail.com or via LI www.linkedin.com/in/piotr-grochowiecki/
 
