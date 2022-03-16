@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @piotrgrochowiecki
 - 👀 I’m interested in starting a career as a Java developer in Warsaw or remotely
 - 🌱 I currently learn Java.
-- 💞️ I look to collaborate on some projects suitable for begineers 
+- 💞️ I look forward to collaborate on some projects suitable for begineers 
 - 📫 How to reach me: Piotr.Grochowiecki@gmail.com or via LI www.linkedin.com/in/piotr-grochowiecki/
 
 <!---
