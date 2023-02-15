@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @piotrgrochowiecki
-- 👀 I’m interested in starting a career as a Java developer in Warsaw or remotely
+- 👋 Hi, I’m @piotrgrochowiecki. I currently work at DXC Technology as Junior Java Dev. I started in Feb '23.
+- 👀 I’m always open to discuss new opportunities.
 - 🌱 I currently learn Java.
-- 💞️ I look forward to collaborate on some projects suitable for beginners 
 - 📫 How to reach me: Piotr.Grochowiecki@gmail.com or via LI www.linkedin.com/in/piotr-grochowiecki/
 
 <!---
