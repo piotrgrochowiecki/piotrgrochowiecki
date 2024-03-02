@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piotrgrochowiecki. I currently work at DXC Technology as Junior Java Dev. I started in Feb '23.
+- 👋 Hi, I’m @piotrgrochowiecki. I currently work at GE Aerospace as Java Developer.
 - 👀 I’m always open to discuss new opportunities.
 - 🌱 I currently learn Java.
 - 📫 How to reach me: Piotr.Grochowiecki@gmail.com or via LI www.linkedin.com/in/piotr-grochowiecki/
