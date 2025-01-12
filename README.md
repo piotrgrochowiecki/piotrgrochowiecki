@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @piotrgrochowiecki. I currently work at GE Aerospace as Java Developer.
+- 👋 Hi, I’m @piotrgrochowiecki. I currently work at ING Hubs as Java Developer.
 - 🌱 I primarly work in Java, SpringBoot and AWS.
 - 💻 This profile shows my journey with coding. At the moment, I learn microservices by building system where users can be notified about changes in prices of various financial assests. You can track my progress in this organization: https://github.com/Stock-Trading
 - 📫 How to reach me: Piotr.Grochowiecki@gmail.com or www.linkedin.com/in/piotr-grochowiecki/
